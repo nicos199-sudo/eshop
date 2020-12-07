@@ -116,6 +116,7 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGES = [
     ('en', _('English')),
     ('tr', _('Turkish')),
+    ('fr', _('french')),
 ]
 
 LOCALE_PATHS = (

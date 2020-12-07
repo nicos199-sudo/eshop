@@ -345,8 +345,8 @@ textarea.input {
 }
 
 .header-logo .logo>img {
-  width: 100%;
-  max-height: 70px;
+  
+  max-height: 86px;
 }
 
 /*----------------------------*\
@@ -366,6 +366,7 @@ textarea.input {
 .header-search>form .search-input {
   padding-left: 150px;
   padding-right: 45px;
+  border-radius: 47px;
 }
 
 .header-search>form .search-categories {
@@ -373,6 +374,7 @@ textarea.input {
   left: 0px;
   top: 0px;
   width: 135px;
+  border-radius: 47px;
 }
 
 .header-search>form .search-btn {

@@ -63,7 +63,7 @@
                                         {% endif %}
                                     </strong></td>
                                     <td class="qty text-center"><strong>{{rs.quantity}}</strong></td>
-                                    <td class="total text-center"><strong class="primary-color">$
+                                    <td class="total text-center"><strong class="primary-color">
                                         {% if rs.product.variant == 'None' %}
                                             {{ rs.amount|currency:request.session.currency }} {{ request.session.currency }}
                                         {% else %}

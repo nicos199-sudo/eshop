@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-02 05:00+0300\n"
+"POT-Creation-Date: 2020-12-07 13:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,86 +18,89 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: .\home\templates\about.html:15 .\home\templates\contactus.html:15
-#: .\home\templates\sidebar.html:50
+#: home/templates/about.html:15 home/templates/contactus.html:15
+#: home/templates/sidebar.html:39
 msgid "Home"
 msgstr "Anasayfa"
 
-#: .\home\templates\about.html:16 .\home\templates\sidebar.html:51
+#: home/templates/about.html:16 home/templates/sidebar.html:40
 msgid "About Us"
 msgstr "Hakkımızda"
 
-#: .\home\templates\contactus.html:16
+#: home/templates/contactus.html:16
 #, fuzzy
 #| msgid "Contact Us"
 msgid "Contact Page"
 msgstr "İletişim"
 
-#: .\home\templates\contactus.html:34
+#: home/templates/contactus.html:34
 msgid "Contact Form"
 msgstr "İletişim Formu"
 
-#: .\home\templates\contactus.html:48
+#: home/templates/contactus.html:48
 msgid "SEND FORM"
 msgstr "Formu Gönder"
 
-#: .\home\templates\contactus.html:57
+#: home/templates/contactus.html:57
 msgid "Contact Information"
 msgstr "İletişim Bilgileri"
 
-#: .\home\templates\header.html:8 .\home\templates\header2.html:8
-msgid "Welcome to E-shop!"
-msgstr "Alışverişe Hoş Geldiniz"
+#: home/templates/header.html:9 home/templates/header2.html:8
+msgid "Welcome to AKAGURIRO MARKET!"
+msgstr ""
 
-#: .\home\templates\header.html:22 .\home\templates\header2.html:23
+#: home/templates/header.html:24 home/templates/header2.html:23
 msgid "Store"
 msgstr "Mağaza"
 
-#: .\home\templates\header.html:23 .\home\templates\header2.html:24
+#: home/templates/header.html:25 home/templates/header2.html:24
 msgid "Newsletter"
 msgstr "Haberler"
 
-#: .\home\templates\header.html:24 .\home\templates\header2.html:25
+#: home/templates/header.html:26 home/templates/header2.html:25
 msgid "FAQ"
 msgstr "SSS"
 
-#: .\home\templates\header.html:90 .\home\templates\header2.html:89
+#: home/templates/header.html:115 home/templates/header2.html:89
 msgid "All Categories"
 msgstr "Tüm Kategoriler"
 
-#: .\home\templates\header.html:115 .\home\templates\header2.html:126
+#: home/templates/header.html:140 home/templates/header2.html:126
 msgid "My Account"
 msgstr "Hesabım"
 
-#: .\home\templates\header.html:116 .\home\templates\header2.html:127
+#: home/templates/header.html:141 home/templates/header2.html:127
 msgid "My Favorits"
 msgstr "Favaorilerim"
 
-#: .\home\templates\header.html:117 .\home\templates\header2.html:128
+#: home/templates/header.html:142 home/templates/header2.html:128
 msgid "My Orders "
 msgstr "Satın Aldıklarım"
 
-#: .\home\templates\header.html:118 .\home\templates\header2.html:129
+#: home/templates/header.html:143 home/templates/header2.html:129
 msgid "My Comments"
 msgstr "Yorumlarım"
 
-#: .\home\templates\header.html:119 .\home\templates\header2.html:130
+#: home/templates/header.html:144 home/templates/header2.html:130
 msgid "Logout"
 msgstr "Çıkış"
 
-#: .\home\templates\header.html:135 .\home\templates\header2.html:143
+#: home/templates/header.html:160 home/templates/header2.html:143
 msgid "My Cart:"
 msgstr "Sepetim"
 
-#: .\home\templates\sidebar.html:16
+#: home/templates/sidebar.html:16
 #, fuzzy
 #| msgid "All Categories"
 msgid "Categories"
 msgstr "Tüm Kategoriler"
 
-#: .\home\templates\sidebar.html:52
+#: home/templates/sidebar.html:41
 msgid "Contact Us"
 msgstr "İletişim"
+
+#~ msgid "Welcome to E-shop!"
+#~ msgstr "Alışverişe Hoş Geldiniz"
 
 #, fuzzy
 #~| msgid "Contact Us"
